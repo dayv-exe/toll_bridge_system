@@ -2,7 +2,6 @@ import pytest
 from lorry import Lorry
 from motorbike import Motorbike
 from car import Car
-from vehicle import Vehicle
 
 
 def test_small_lorry():
